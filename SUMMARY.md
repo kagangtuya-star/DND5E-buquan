@@ -88,3 +88,6 @@
     * [工具](wan-jia-shou-ce/di-5-zhang-zhuang-bei-equipment/gong-ju.md)
     * [坐骑与载具](wan-jia-shou-ce/di-5-zhang-zhuang-bei-equipment/zuo-qi-yu-zai-ju.md)
     * [其他开支](wan-jia-shou-ce/di-5-zhang-zhuang-bei-equipment/qi-ta-kai-zhi.md)
+  * [第6章：自定义选项Customization Options](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/README.md)
+    * [兼职](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/jian-zhi.md)
+    * [专长](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/zhuan-chang.md)
