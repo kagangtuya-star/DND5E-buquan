@@ -1,6 +1,4 @@
----
-description: 这是《5E不全书》，不是《5E全书》。
----
+这是《5E不全书》，不是《5E全书》。
 
 # 写在前面
 
@@ -31,7 +29,7 @@ description: 这是《5E不全书》，不是《5E全书》。
 | **SCC**      | Strixhaven: A Curriculum Of Chaos | 斯翠海文：混沌研习     |
 | **MotM**     | Monsters of the Multiverse        | 魔邓肯出品：多元宇宙的怪物 |
 
-&#x20; 其中剑湾冒险者指南（SCAG）由威**世**智与Green Ronin Publishing合作
+&#x20; 其中剑湾冒险者指南（SCAG）由威世智与Green Ronin Publishing合作
 
 &#x20; 其他：UA，模组，官网资料等
 
