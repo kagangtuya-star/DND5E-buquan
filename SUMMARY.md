@@ -91,3 +91,7 @@
   * [第6章：自定义选项Customization Options](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/README.md)
     * [兼职](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/jian-zhi.md)
     * [专长](wan-jia-shou-ce/di-6-zhang-zi-ding-yi-xuan-xiang-customization-options/zhuan-chang.md)
+  * [进行游戏（7-9章）](wan-jia-shou-ce/jin-hang-you-xi-79-zhang/README.md)
+    * [第7章：属性值应用Using Ability Scores](wan-jia-shou-ce/jin-hang-you-xi-79-zhang/di-7-zhang-shu-xing-zhi-ying-yong-using-ability-scores.md)
+    * [第8章：冒险Adventuring](wan-jia-shou-ce/jin-hang-you-xi-79-zhang/di-8-zhang-mao-xian-adventuring.md)
+    * [第9章：战斗Combat](wan-jia-shou-ce/jin-hang-you-xi-79-zhang/di-9-zhang-zhan-dou-combat.md)
