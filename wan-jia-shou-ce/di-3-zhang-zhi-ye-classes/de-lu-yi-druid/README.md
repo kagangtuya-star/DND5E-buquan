@@ -27,7 +27,7 @@
 
 ## **德鲁伊职业表**
 
-![德鲁伊职业表](<../../../.gitbook/assets/image (12).png>)
+![德鲁伊职业表](<../../../.gitbook/assets/image (12) (1).png>)
 
 ## 职业特性Class Features
 

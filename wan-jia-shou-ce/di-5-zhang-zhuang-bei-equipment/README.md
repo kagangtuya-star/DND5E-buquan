@@ -44,9 +44,9 @@
 
 #### **标准兑换率Standard Exchange Rates**
 
-![标准兑换率](<../../.gitbook/assets/image (5).png>)
+![标准兑换率](<../../.gitbook/assets/image (5) (1).png>)
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 #### **出售财宝Selling Treasure**
 

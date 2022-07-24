@@ -26,7 +26,7 @@
 
 ## **法师职业表**
 
-![法师职业表](<../../../.gitbook/assets/image (10).png>)
+![法师职业表](<../../../.gitbook/assets/image (10) (1).png>)
 
 ## **职业特性Class Features**
 

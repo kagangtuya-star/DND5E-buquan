@@ -21,7 +21,7 @@
 
 ### **诡术师施法能力Arcane Trickster Spellcasting** 
 
-![诡术师施法能力](<../../../.gitbook/assets/image (2).png>)
+![诡术师施法能力](<../../../.gitbook/assets/image (2) (1).png>)
 
 ### _**法师之手**_** 诈术** _**Mage Hand**_** Legerdemain**
 

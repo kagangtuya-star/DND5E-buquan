@@ -114,7 +114,7 @@ D\&D世界中任一个特定的生物都属于与之相应的阵营，并以此�
 
 ![](<../../.gitbook/assets/image (7) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (15).png>)
 

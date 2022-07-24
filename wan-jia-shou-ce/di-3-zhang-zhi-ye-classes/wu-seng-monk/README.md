@@ -25,7 +25,7 @@
 
 ## **武僧职业表**
 
-![武僧职业表](<../../../.gitbook/assets/image (14).png>)
+![武僧职业表](<../../../.gitbook/assets/image (14) (1).png>)
 
 ## 职业特性Class Features
 
