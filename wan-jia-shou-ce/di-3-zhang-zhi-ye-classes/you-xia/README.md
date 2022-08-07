@@ -32,7 +32,7 @@
 
 ## **游侠职业表**
 
-![游侠职业表](../../../.gitbook/assets/image.png)
+![游侠职业表](<../../../.gitbook/assets/image (2).png>)
 
 ## **职业特性Class Features**
 
