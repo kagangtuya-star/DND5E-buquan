@@ -1,9 +1,7 @@
 # Table of contents
 
 * [写在前面](README.md)
-
 * [玩家手册](wan-jia-shou-ce/README.md)
-  
   * [第1章：一步步创建角色Step-by-Step Characters](wan-jia-shou-ce/di-1-zhang-yi-bu-bu-chuang-jian-jiao-se-stepbystep-characters.md)
   * [第2章：种族Races](wan-jia-shou-ce/di-2-zhang-zhong-zu-races/README.md)
     * [矮人Dwarf](wan-jia-shou-ce/di-2-zhang-zhong-zu-races/ai-ren-dwarf.md)
@@ -121,7 +119,20 @@
   * [附录A：状态Conditions](wan-jia-shou-ce/fu-luazhuang-tai-conditions.md)
   * [附录B：多元宇宙诸神Gods of the Multiverse](wan-jia-shou-ce/fu-lubduo-yuan-yu-zhou-zhu-shen-gods-of-the-multiverse.md)
   * [附录C：存在位面The Planes of Existence](wan-jia-shou-ce/fu-luccun-zai-wei-mian-the-planes-of-existence.md)
-  
+* [城主指南](cheng-zhu-zhi-nan/README.md)
+  * [世界之主](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/README.md)
+    * [你的世界](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/ni-de-shi-jie.md)
+    * [绘制战役](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/README.md)
+      * [聚居地](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/ju-ju-di.md)
+      * [语言与方言](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/yu-yan-yu-fang-yan.md)
+      * [势力与组织](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/shi-li-yu-zu-zhi.md)
+      * [世界中的魔法](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/shi-jie-zhong-de-mo-fa.md)
+      * [创作战役](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/chuang-zuo-zhan-yi.md)
+      * [战役事件](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/zhan-yi-shi-jian.md)
+      * [奇幻风格](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/hui-zhi-zhan-yi/qi-huan-feng-ge.md)
+    * [游戏风格](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/you-xi-feng-ge.md)
+    * [游戏阶段](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/you-xi-jie-duan.md)
+    * [世间诸神](cheng-zhu-zhi-nan/shi-jie-zhi-zhu/shi-jian-zhu-shen.md)
 * [怪物图鉴](guai-wu-tu-jian/README.md)
   * [关于怪物资料](guai-wu-tu-jian/guan-yu-guai-wu-zi-liao.md)
   * [异怪](guai-wu-tu-jian/yi-guai.md)
