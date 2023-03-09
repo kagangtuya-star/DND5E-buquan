@@ -112,9 +112,9 @@ D\&D世界中任一个特定的生物都属于与之相应的阵营，并以此�
 \
 \*深渊语Abyssal、炼狱语Infernal、天界语Celestial、龙语Draconic、原初语Primordial、木族语Sylvan、地底通用语Undercommon、深潜语Deep Speech。
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (15).png>)
 

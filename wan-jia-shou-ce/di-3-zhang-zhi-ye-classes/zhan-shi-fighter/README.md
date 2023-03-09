@@ -23,7 +23,7 @@
 
 ## **战士职业表**
 
-![战士职业表](<../../../.gitbook/assets/image (13).png>)
+![战士职业表](<../../../.gitbook/assets/image (13) (1).png>)
 
 ## **职业特性Class Features**
 

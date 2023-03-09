@@ -23,7 +23,7 @@
 
 ## **野蛮人职业表**
 
-![野蛮人职业表](<../../../.gitbook/assets/image (20).png>)
+![野蛮人职业表](<../../../.gitbook/assets/image (20) (1).png>)
 
 ## **职业特性Class Features**
 
